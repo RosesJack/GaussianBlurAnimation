@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\360Downloads\code-reader-master\AndroidGaussianBlur-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fd053a3fc01a8420751a9d0467cb89fac24c1098">
+        <dex dex="E:\360Downloads\code-reader-master\AndroidGaussianBlur-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_884135b38cf08a75e7cc1c0d44e886554579ae70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\360Downloads\code-reader-master\AndroidGaussianBlur-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="21c7ed97ac35fcd642a6130a9e53c7d262fe9add">
+        <dex dex="E:\360Downloads\code-reader-master\AndroidGaussianBlur-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3612516aa7acf7d689a482bf2e840b00b6a353ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\360Downloads\code-reader-master\AndroidGaussianBlur-master\app\libs\renderscript-v8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beb0dec1900eacb1022f059f97694fe2d3ed4883">
+        <dex dex="E:\360Downloads\code-reader-master\AndroidGaussianBlur-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\renderscript-v8_2ff8a2a591cfe5b88dbebf869d1008850e5aabbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\360Downloads\code-reader-master\AndroidGaussianBlur-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_4122fa1d5d323f6a65df823f3324c6c51b4a2cd3\classes.dex" />
+    </item>
+
+</items>

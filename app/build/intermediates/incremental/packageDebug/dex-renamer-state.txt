@@ -1,0 +1,7 @@
+#Sat Dec 10 15:29:21 CST 2016
+base.0=E\:\\360Downloads\\code-reader-master\\AndroidGaussianBlur-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3612516aa7acf7d689a482bf2e840b00b6a353ac
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\360Downloads\\code-reader-master\\AndroidGaussianBlur-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_884135b38cf08a75e7cc1c0d44e886554579ae70\\classes.dex
+base.1=E\:\\360Downloads\\code-reader-master\\AndroidGaussianBlur-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_884135b38cf08a75e7cc1c0d44e886554579ae70
+file.0=E\:\\360Downloads\\code-reader-master\\AndroidGaussianBlur-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3612516aa7acf7d689a482bf2e840b00b6a353ac\\classes.dex
